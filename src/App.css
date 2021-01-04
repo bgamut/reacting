@@ -6,12 +6,17 @@
   height: 40vmin;
   pointer-events: none;
 }
+.Menu-bar{
+  height: 20px;
+  fill:#fff;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
 }
+
 
 .App-header {
   background-color: #282c34;

@@ -499,7 +499,7 @@ class App extends Component {
                                 }]
                             }}
                         >
-                            <i class="fas fa-envelope"></i>
+                            {/* <i class="fas fa-envelope"></i> */}
                         </div>
                         
                     </a>
@@ -527,6 +527,24 @@ class App extends Component {
                             // textShadowRadius: 3,
                         }}
                     >
+                        <i class="fas fa-envelope"></i>
+                        
+                    </a> 
+                    <a
+                        style={{
+                           
+                            fontWeight:700,
+                            textDecorationLine:'none',
+                            //color:'white',
+                            color:'rgb(195,195,195)',
+                            fontSize: 10,
+                            marginLeft:5,
+                            // textShadowColor: 'rgba(0, 0, 0, 0.5)',
+                            // textShadowOffset: {width: 0, height: 0},
+                            // textShadowRadius: 3,
+                        }}
+                    >
+                        
                         bernardahn@squwbs.com
                     </a> 
                     </div>
@@ -586,7 +604,7 @@ class App extends Component {
                                 }]
                             }}
                         >
-                            <i class="fas fa-phone"></i>
+                            {/* <i class="fas fa-phone"></i> */}
                         </div>
                         
                     </a>
@@ -604,6 +622,24 @@ class App extends Component {
                             // textShadowRadius: 3,
                         }}
                     >
+                         <i class="fas fa-phone"></i>
+                       
+                    </a> 
+                    <a
+                        style={{
+                           
+                            fontWeight:700,
+                            textDecorationLine:'none',
+                           // color:'white',
+                            color:'rgb(195,195,195)',
+                            fontSize: 10,
+                            marginLeft:5,
+                            // textShadowColor: 'rgba(0, 0, 0, 0.5)',
+                            // textShadowOffset: {width: 0, height: 0},
+                            // textShadowRadius: 3,
+                        }}
+                    >
+                         
                         821055981367
                     </a> 
                 </div>
@@ -678,7 +714,7 @@ class App extends Component {
                                 }]
                             }}
                         >
-                            <i class="fas fa-home"></i>
+                            {/* <i class="fas fa-home"></i> */}
                         </div>
                         
                     </a>
@@ -701,7 +737,8 @@ class App extends Component {
                             // textShadowRadius: 3,
                         }}
                     >
-                       302-1302 213 bungil 5 
+                      <i class="fas fa-home"></i>
+                      
                     </a>
                     <a
                         style={{
@@ -717,8 +754,28 @@ class App extends Component {
                             // textShadowRadius: 3,
                         }}
                     >
+                      
+                       302-1302 213 bungil 5 
+                    </a>
+                    <div>
+                    <a
+                        style={{
+                           
+                            fontWeight:700,
+                            textDecorationLine:'none',
+                            //color:'white',
+                            color:'rgb(195,195,195)',
+                            fontSize: 10,
+                            marginLeft:5,
+                            // textShadowColor: 'rgba(0, 0, 0, 0.5)',
+                            // textShadowOffset: {width: 0, height: 0},
+                            // textShadowRadius: 3,
+                        }}
+                    >
                         Jeongjail-ro Bundang-gu
-                        </a>
+                    </a>
+                    </div>
+                    <div>
                     <a
                         style={{
                         
@@ -735,6 +792,8 @@ class App extends Component {
                     >
                     Seongnam-si Gyeonggi-do
                     </a>
+                    </div>
+                    <div>
                     <a
                         style={{
                         
@@ -750,7 +809,8 @@ class App extends Component {
                         }}
                     >
                         R.O.K 13556
-                </a> 
+                    </a> 
+                    </div>
                 </div>
                 </div>
                 </div>
